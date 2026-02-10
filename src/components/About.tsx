@@ -21,7 +21,7 @@ const About = () => {
       degree: "B.Tech in CSE (AI & DS)",
       institution: "Vignan's Institute of Information Technology, Visakhapatnam",
       period: "2023 – 2026",
-      details: "CGPA: 8.33",
+      details: "CGPA: 8.22",
       icon: FiAward
     },
     {
