@@ -10,7 +10,7 @@ import ScrollToTop from '../components/ScrollToTop';
 
 const Index = () => {
   return (
-    <div className="w-full min-h-screen flex flex-col bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white overflow-x-hidden">
+    <div className="w-full min-h-screen flex flex-col bg-gradient-to-br from-slate-900   via-purple-900 to-slate-900 text-white overflow-x-hidden">
       <Navbar />
       <main className="flex-grow">
         <Hero />
